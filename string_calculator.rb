@@ -1,2 +1,5 @@
-def string_calculate(str)
+class StringCal
+  def add(str)
+  
+  end
 end
