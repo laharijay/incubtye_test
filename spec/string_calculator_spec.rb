@@ -24,7 +24,7 @@ describe StringCal do
       expect(@str_cal.add(input)).to eq(6)
 
       input2 = "1,\n"
-      expect(@str_cal.add(input)).to eq(1)
+      expect(@str_cal.add(input2)).to eq(1)
 
     end
 
